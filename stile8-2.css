@@ -20,6 +20,10 @@
         color: red !important;
         
     }
+     .images1 img{
+        height:200px !important;
+ 
+    }
     .ddd{display: block !important;}
 }
 .navbar-brand img{
